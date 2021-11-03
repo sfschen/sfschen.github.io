@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my website.
 
-You can use the [editor on GitHub](https://github.com/sfschen/sfschen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Stephen Chen (陳師凡), a fifth and final year graduate student in the Physics Department at UC Berkeley.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research if broadly focused on using the large-scale structure (LSS) of the universe to constrain fundamental physics. The universe is a complicated place! Much of my research focuses on modeling cosmological observables using effective field theories in order to robustly extract signatures of fundamental physics from the sea of other cool stuff going on--exploding stars, active black holes at the centers of galaxies, etc. While most of my work has involved the clustering of galaxies--I am an active member of the [Dark Energy Spectroscopic Instrument](https://www.desi.lbl.gov/)--this work has also taken me to other places, like the Lyman alpha forest.
 
-### Markdown
+I am the author of the [velocileptors](https://github.com/sfschen/velocileptors) code, which is a fast and Python-based perturbation theory code that works in Lagrangian and Eulerian perturbation theory to predict galaxy clustering in real and redshift space, configuration and Fourier space, as well as a bunch of related velocity statistics that might themselves lead to interesting cosmological constraints in the future. I am also involved with [anzu](https://github.com/kokron/anzu), an emulator for galaxy-lensing cross correlations using a model proposed by me, Chirag Modi and Martin White combining the Lagrangian EFT prescription for galaxy bias and n-body simulations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sfschen/sfschen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A full list of my publications can be found [here](https://ui.adsabs.harvard.edu/public-libraries/N1pJwPGrRESHudfVXQrRPA).
