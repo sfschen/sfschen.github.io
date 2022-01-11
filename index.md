@@ -1,4 +1,4 @@
-## Welcome to my website.
+## Stephen Chen. Cosmology and Physics Grad Student at UC Berkeley
 
 I am Stephen Chen (陳師凡), a fifth and final year graduate student in the Physics Department at UC Berkeley. I am originally from a [little island nation](https://www.taiwan.gov.tw/) in the Pacific.
 
