@@ -1,6 +1,6 @@
-## Cosmology at UC Berkeley
+## Cosmology | IAS
 
-I am Stephen Chen (陳師凡), a fifth and final year graduate student in the Physics Department at UC Berkeley. I am originally from a [little island nation](https://www.taiwan.gov.tw/) in the Pacific.
+I am Stephen Chen (陳師凡), a postdoctoral member at the [Institute for Advanced Study](https://www.ias.edu/scholars/shi-fan-chen). I recently obtained my PhD in the Physics Department at UC Berkeley working with [Martin White](https://physics.berkeley.edu/people/faculty/martin-white). I am originally from a [little island nation](https://www.taiwan.gov.tw/) in the Pacific.
 
 My research in cosmology is broadly focused on using the large-scale structure (LSS) of the universe to constrain fundamental physics. The universe is a complicated place! Much of my research focuses on modeling cosmological observables using effective field theories in order to robustly extract signatures of fundamental physics from the sea of other cool stuff going on--exploding stars, active black holes at the centers of galaxies, etc. While most of my work has involved the clustering of galaxies--I am an active member of the [Dark Energy Spectroscopic Instrument](https://www.desi.lbl.gov/)--this work has also taken me to other places, like the Lyman alpha forest.
 
