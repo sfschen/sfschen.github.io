@@ -1,4 +1,4 @@
-## Cosmology | IAS
+## Cosmology | Columbia
 
 I am Stephen Chen (陳師凡), a postdoctoral researcher in the physics department at Columbia University via the NASA Hubble fellowship. From 2022-5, I was a postdoctoral member at the [Institute for Advanced Study](https://www.ias.edu/scholars/shi-fan-chen). I obtained my PhD in the Physics Department at UC Berkeley working with [Martin White](https://physics.berkeley.edu/people/faculty/martin-white). I am originally from a [little island nation](https://www.taiwan.gov.tw/) in the Pacific.
 
